@@ -1,0 +1,30 @@
+Body{
+	background-image:url("../img/f1.jpg");
+	background-position: center center;
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-size: cover;
+	background-color: #464646;
+}
+#login{
+	width:40%;
+}
+
+#encabezado{
+	font-family: 'Lobster', cursive;
+}
+
+#logBody{
+	background-image:url("../img/pattern.png");
+}
+
+#principal{
+	background-image:url("../img/nombre.extencion");
+}
+.contact-section{
+	width:40%;
+}
+
+pre{
+	background: black;
+}
